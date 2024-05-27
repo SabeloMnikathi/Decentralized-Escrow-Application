@@ -26,7 +26,7 @@ The frontend of the application is built using React, providing an intuitive int
 Begin by cloning the project repository to your local machine:
 
 ```sh
-git clone https://github.com/alchemyplatform/escrow-hardhat.git
+git clone https://github.com/SabeloMnikathi/Decentralized-Escrow-Application.git
 ```
 
 ### Installing Dependencies
